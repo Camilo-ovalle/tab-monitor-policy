@@ -57,7 +57,3 @@ If this privacy policy is updated, the changes will be reflected in this documen
 ## Contact
 
 If you have questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/Camilo-ovalle/Tab-Limiter-chrome-Extension/issues).
-
-## Open Source
-
-Chrome Tab Monitor is open source under the MIT License. You can review the complete source code at [https://github.com/Camilo-ovalle/Tab-Limiter-chrome-Extension](https://github.com/Camilo-ovalle/Tab-Limiter-chrome-Extension).
